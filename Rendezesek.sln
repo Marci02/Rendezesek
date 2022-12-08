@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buborek", "Buborek\Buborek.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JavitottBuborek", "JavitottBuborek\JavitottBuborek.csproj", "{6934D2AB-4600-40F1-8D61-39FE6F1FCC7C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beszúró rendezés", "Beszúró rendezés\Beszúró rendezés.csproj", "{413DE53A-97F9-4183-B820-3EF667B2AF80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JavitottBeszuro", "JavitottBeszuro\JavitottBeszuro.csproj", "{0E5C714E-2EC6-4DDE-8BEA-6E4B6B506706}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{6934D2AB-4600-40F1-8D61-39FE6F1FCC7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6934D2AB-4600-40F1-8D61-39FE6F1FCC7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6934D2AB-4600-40F1-8D61-39FE6F1FCC7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{413DE53A-97F9-4183-B820-3EF667B2AF80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{413DE53A-97F9-4183-B820-3EF667B2AF80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{413DE53A-97F9-4183-B820-3EF667B2AF80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{413DE53A-97F9-4183-B820-3EF667B2AF80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E5C714E-2EC6-4DDE-8BEA-6E4B6B506706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E5C714E-2EC6-4DDE-8BEA-6E4B6B506706}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E5C714E-2EC6-4DDE-8BEA-6E4B6B506706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E5C714E-2EC6-4DDE-8BEA-6E4B6B506706}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
